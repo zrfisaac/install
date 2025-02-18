@@ -4,9 +4,9 @@
 # - author : Isaac Caires
 # . - email : zrfisaac@gmail.com
 # . - site : zrfisaac.github.io
-# - version : zrfisaac.install : 0.0.1
+# - version : zrfisaac.install : 0.0.2
 
 # [ list ]
 
-# - : bde
-# . - : https://github.com/zrfisaac/install.bde.git
+# - : BDE
+# . - : https://github.com/zrfisaac/BDE.git
